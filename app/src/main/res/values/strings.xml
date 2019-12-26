@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SendEmailFromAppExercise</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="compose_email">Compose email</string>
+    <string name="send">Send</string>
+</resources>
